@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🎉 Hi! I'm Milosz! 😎
 
-<!--
-**MiloszDev/MiloszDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **a machine learning developer** who loves **coding**, **learning**, and **exploring new technologies**. In this space, you'll find:
 
-Here are some ideas to get you started:
+- 💻 My projects, ranging from **cool web apps** to **open-source contributions**.
+- 🌱 My journey as I explore **machine learning and cybersecurity**.
+- 🎯 Currently focused on **learning and building fun machine learning projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Tech I Work With:
+
+- **Languages**: [Python, Html, Css, Javascript, Java]
+- **Frameworks/Libraries**: [React, PyTorch, Scikit-Learn]
+- **Tools**: [Google Colab, Visual Studio Code]
+
+---
+
+### 🚀 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+Feel free to explore and connect! 🚀
