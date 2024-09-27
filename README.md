@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a **a machine learning developer** who loves *
 
 ### 🚀 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiloszDev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiloszDev&layout=compact&theme=tokyonight)
 
 ---
 
