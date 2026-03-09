@@ -1,26 +1,27 @@
 # Milosz
 
-Machine Learning Developer focused on building practical models and experimenting with modern ML tooling.  
-My work centers on applied machine learning, data-driven experimentation, and exploring intersections with cybersecurity.
+Data Scientist focused on building practical models and experimenting with modern ML tooling.
+My work focuses on data science, applied machine learning, and experimentation with reinforcement learning and AI applications in finance.
 
 ## Focus Areas
-- Machine Learning and model development  
-- Data analysis and experimentation  
-- Applied ML projects and prototyping  
-- Exploring ML applications in cybersecurity
+- Data Science and statistical analysis  
+- Machine Learning model development and evaluation  
+- Reinforcement Learning experimentation  
+- AI applications in finance and quantitative modeling
 
 ## Tech Stack
 
 **Languages**
-- Python  
+- Python
+- SQL
 - JavaScript  
 - Java  
-- HTML / CSS  
+- HTML / CSS
+- PHP
 
 **Libraries & Frameworks**
 - PyTorch  
-- Scikit-learn  
-- React  
+- Scikit-learn    
 
 **Tools**
 - Google Colab  
