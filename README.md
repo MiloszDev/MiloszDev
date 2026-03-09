@@ -27,11 +27,5 @@ My work focuses on data science, applied machine learning, and experimentation w
 - Google Colab  
 - Visual Studio Code  
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiloszDev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiloszDev&layout=compact&theme=tokyonight)
-
 ## Notes
 This GitHub profile contains experiments, learning projects, and implementations related to machine learning and software development.
