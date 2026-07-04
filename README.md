@@ -26,6 +26,3 @@ My work focuses on data science, applied machine learning, and experimentation w
 **Tools**
 - Google Colab  
 - Visual Studio Code  
-
-## Notes
-This GitHub profile contains experiments, learning projects, and implementations related to machine learning and software development.
